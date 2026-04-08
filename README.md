@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi there, I'm Mats 👋
 
-<!--
-**The-Mats/The-Mats** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Computer Scientist** specializing in **AI and Machine Learning**, currently pursuing my M.Sc. at Kiel University (CAU). I work as a Research Assistant in the Intelligent Systems Working Group, where I focus on deep learning pipelines, representation learning, and reinforcement learning.
 
-Here are some ideas to get you started:
+### 🔭 Important Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+TODO
+
+### 🛠️ Programming Skills & Tools
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,pytorch,java,docker,linux,bash,git,c,js,html,spring,latex,haskell,r,ruby" alt="Mats's Skills" />
+  </a>
+</p>
+
+### 📫 Get in Touch
+
+You can reach me directly via email at **[contact@matskurz.de](mailto:contact@matskurz.de)**.
